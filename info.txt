@@ -1,4 +1,4 @@
 Name= A
 Family= C
 Age=26
-Gender =-1
+Gender =-3
